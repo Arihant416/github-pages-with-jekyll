@@ -1,4 +1,10 @@
-# Welcome to my blog
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
-I'm glad you are here. I plan to talk about Github Pages and Jekyll.
+# Welcome
 
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!
